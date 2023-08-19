@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+
+    <employee>
+        <Id>A101</Id>
+        <PersonalInformation>
+            <FirstName>Aman</FirstName>
+            <LastName>Singh</LastName>
+            <DateofBirth>1998-03-28</DateofBirth>
+            <Gender>Male</Gender>
+        </PersonalInformation>
+
+        <EmploymentInformation>
+            <Position>Tester</Position>
+            <Salary>8 LPA</Salary>
+        </EmploymentInformation>
+
+        <ContactInformation>
+            <Email>aman@gmail.com</Email>
+            <PhoneNumber>9876543210</PhoneNumber>
+        </ContactInformation>
+    </employee>
+
+    <employee>
+        <Id>A102</Id>
+
+        <PersonalInformation>
+            <FirstName>Harsh</FirstName>
+            <LastName>Sonker</LastName>
+            <DateofBirth>2002-11-14</DateofBirth>
+            <Gender>Male</Gender>
+        </PersonalInformation>
+
+        <EmploymentInformation>
+            <Position>Analyst</Position>
+            <Salary>12 LPA</Salary>
+        </EmploymentInformation>
+
+        <ContactInformation>
+            <Email>harshs@gmail.com</Email>
+            <PhoneNumber>8876501922</PhoneNumber>
+        </ContactInformation>
+    </employee>
+
+    <employee>
+        <Id>A103</Id>
+
+        <PersonalInformation>
+            <FirstName>Rohan</FirstName>
+            <LastName>Sharma</LastName>
+            <DateofBirth>1991-07-12</DateofBirth>
+            <Gender>Male</Gender>
+        </PersonalInformation>
+
+        <EmploymentInformation>
+            <Position>Developer</Position>
+            <Salary>5 LPA</Salary>
+        </EmploymentInformation>
+
+        <ContactInformation>
+            <Email>sharmarohan@gmail.com</Email>
+            <PhoneNumber>6382990122</PhoneNumber>
+        </ContactInformation>
+    </employee>
+
+</employees>
